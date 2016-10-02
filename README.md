@@ -1,5 +1,12 @@
 # IntelliJ_Colors_Fonts
 
+These are some color schemes and fonts I prefer to use in my IDEs. All the color schemes are fully compatible with - 
+* PyCharm  
+* WebStorm  
+* PhpStorm  
+* IntelliJ IDEA  
+* Android Studio  
+
 ## Screenshots
 
 ### Color Schemes
