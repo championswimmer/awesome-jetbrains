@@ -15,16 +15,23 @@ These are some color schemes and fonts I prefer to use in my IDEs. All the color
 ## Color Schemes
 
 ### Java (Android Studio)
+|Environment|
+|-|-|
+| **Language** | Java |
+| **IDE** | Android Studio |
+| **Font** | Fira Code|
 
-|Language | IDE | Font | Color Scheme | Screenshot |
-|---------|-----|------|--------------|------------|
-|Java|Android Studio|Fira Code|**Darcula Large**| ![](Screenshots/JavaColors/DarculaLarge.png)|
-|Java|Android Studio|Fira Code|**Dark Visual Studio**| ![](Screenshots/JavaColors/DarkVisualStudio.png)|
-|Java|Android Studio|Fira Code|**Igor**| ![](Screenshots/JavaColors/Igor.png)|
-|Java|Android Studio|Fira Code|**Ladies Night**| ![](Screenshots/JavaColors/LadiesNight.png)|
-|Java|Android Studio|Fira Code|**Material Dark**| ![](Screenshots/JavaColors/MaterialDark.png)|
-|Java|Android Studio|Fira Code|**Relax Your Eyes**| ![](Screenshots/JavaColors/RelaxYourEyes.png)|
-|Java|Android Studio|Fira Code|**Solarized Light (Alt)**| ![](Screenshots/JavaColors/SolarizedLightAlt.png)|
+
+
+| Color Scheme | Screenshot |
+|--------------|------------|
+|**Darcula Large**| ![](Screenshots/JavaColors/DarculaLarge.png)|
+|**Dark Visual Studio**| ![](Screenshots/JavaColors/DarkVisualStudio.png)|
+|**Igor**| ![](Screenshots/JavaColors/Igor.png)|
+|**Ladies Night**| ![](Screenshots/JavaColors/LadiesNight.png)|
+|**Material Dark**| ![](Screenshots/JavaColors/MaterialDark.png)|
+|**Relax Your Eyes**| ![](Screenshots/JavaColors/RelaxYourEyes.png)|
+|**Solarized Light (Alt)**| ![](Screenshots/JavaColors/SolarizedLightAlt.png)|
 
 
 ### Javascript (Webstorm)  
