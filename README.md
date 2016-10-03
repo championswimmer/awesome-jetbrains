@@ -1,5 +1,5 @@
 # Awesome Jetbrains
-A collection of awesome Fonts and Color Schemes to be used in Jetbrains IDEs. 
+A collection of awesome Fonts and Color Schemes to be used in Jetbrains IDEs.
 
 These are some color schemes and fonts I prefer to use in my IDEs. All the color schemes are fully compatible with -
 * [PyCharm](http://jetbrains.com/pycharm)  
@@ -9,6 +9,8 @@ These are some color schemes and fonts I prefer to use in my IDEs. All the color
 * [IntelliJ IDEA](http://jetbrains.com/idea)  
 * [CLion](http://jetbrains.com/clion)  
 * [Android Studio](https://developer.android.com/studio/index.html)  
+
+_**NOTE** : Some font files (otf or ttf, as available) are bundled in this repository. Not all fonts displayed below in screenshots are available in this repository. Only those fonts which are available under the OFL (Open Font License), that allows free redistribution, are present in the repository. You can easily download the non-OFL fonts for free for individual use (Google is your friend). There are no paid fonts showed in the screenshots._
 
 # Screenshots
 
@@ -125,3 +127,16 @@ Copy to -
 Copy to -
 
 `C:/Windows/Fonts`  
+
+# Credits and References
+
+### Color Themes
+A great collection of color themes for Jetbrains IDEs can be found on http://color-themes.com/
+Many of the themes here, were originally downloaded from **color-themes**, and tweaked to my liking.
+
+### Font Squirrel
+A highly recommended place to discover fonts is https://www.fontsquirrel.com/.  
+You can specifically find monospaced fonts at https://www.fontsquirrel.com/fonts/list/classification/monospaced
+
+### Programming Fonts
+Another tumblr blog I follow a lot to know about awesome programming fonts is http://programmingfonts.org/ 
