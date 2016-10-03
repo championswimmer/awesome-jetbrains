@@ -34,6 +34,11 @@ _**NOTE** : Some font files (otf or ttf, as available) are bundled in this repos
 |**Material Dark**| ![](Screenshots/JavaColors/MaterialDark.png)|
 |**Relax Your Eyes**| ![](Screenshots/JavaColors/RelaxYourEyes.png)|
 |**Solarized Light (Alt)**| ![](Screenshots/JavaColors/SolarizedLightAlt.png)|
+|**Easy Eyes Yello**| ![](Screenshots/JavaColors/EasyEyesYellow.png)|
+|**Obsidian**| ![](Screenshots/JavaColors/Obsidian.png)|
+|**Tomorrow Night**| ![](Screenshots/JavaColors/TomorrowNight.png)|
+|**Zenburn**| ![](Screenshots/JavaColors/Zenburn.png)|
+
 
 
 ### Javascript (Webstorm)  
@@ -139,4 +144,4 @@ A highly recommended place to discover fonts is https://www.fontsquirrel.com/.
 You can specifically find monospaced fonts at https://www.fontsquirrel.com/fonts/list/classification/monospaced
 
 ### Programming Fonts
-Another tumblr blog I follow a lot to know about awesome programming fonts is http://programmingfonts.org/ 
+Another tumblr blog I follow a lot to know about awesome programming fonts is http://programmingfonts.org/
