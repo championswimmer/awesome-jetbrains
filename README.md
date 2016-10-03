@@ -16,7 +16,7 @@ These are some color schemes and fonts I prefer to use in my IDEs. All the color
 
 ### Java (Android Studio)
 |Environment|
-|-|-|
+|---|---|
 | **Language** | Java |
 | **IDE** | Android Studio |
 | **Font** | Fira Code|
