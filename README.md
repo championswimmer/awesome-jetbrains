@@ -1,6 +1,6 @@
 # IntelliJ_Colors_Fonts
 
-These are some color schemes and fonts I prefer to use in my IDEs. All the color schemes are fully compatible with - 
+These are some color schemes and fonts I prefer to use in my IDEs. All the color schemes are fully compatible with -
 * PyCharm  
 * WebStorm  
 * PhpStorm  
@@ -59,23 +59,46 @@ These are some color schemes and fonts I prefer to use in my IDEs. All the color
 **Ubuntu Mono**  
 ![](Screenshots/JavaFonts/UbuntuMono.png)
 
+#### Javascript (Webstorm)
 
+**Fira Code**  
+![](Screenshots/JSFonts/FiraCode.png)
+
+**Anonymous Pro**  
+![](Screenshots/JSFonts/AnonymousPro.png)
+
+**Hack**  
+![](Screenshots/JSFonts/Hack.png)
+
+**Hasklig**  
+![](Screenshots/JSFonts/Hasklig.png)
+
+**Input Mono**  
+![](Screenshots/JSFonts/InputMono.png)
+
+**Input Mono Thin**  
+![](Screenshots/JSFonts/InputMonoThin.png)
+
+**Ubuntu Mono**  
+![](Screenshots/JSFonts/UbuntuMono.png)
+
+## Installation
 ### Installing Colors
 
-##### Linux
+#### Linux
 Copy to -
 
 `~/.Webstorm2016.1/config/colors/`  
 `~/.AndroidStudio2.2/config/colors/`  
 
 
-##### Mac
+#### Mac
 Copy to -
 
 `~/Library/Preferences/Webstorm2016.1/config/colors/`  
 `~/Library/Preferences/AndroidStudio2.2/config/colors/`  
 
-##### Windows
+#### Windows
 Copy to -
 
 `C:/Users/<YOU>/Webstorm2016.1/config/colors/`  
@@ -83,13 +106,13 @@ Copy to -
 
 ### Installing Fonts
 
-##### Linux
+#### Linux
 Copy to -
 
 `~/.local/share/fonts/`  (for you)  
 `/usr/local/share/fonts/`  (for everyone)   
 
-##### Windows
+#### Windows
 Copy to -
 
 `C:/Windows/Fonts`  
