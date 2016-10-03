@@ -15,7 +15,7 @@ These are some color schemes and fonts I prefer to use in my IDEs. All the color
 ## Color Schemes
 
 ### Java (Android Studio)
-|Environment|
+|Environment||
 |---|---|
 | **Language** | Java |
 | **IDE** | Android Studio |
