@@ -7,36 +7,52 @@ These are some color schemes and fonts I prefer to use in my IDEs. All the color
 * IntelliJ IDEA  
 * Android Studio  
 
-## Screenshots
+# Screenshots
 
-### Color Schemes
 
-#### Java (Android Studio)
+
+
+## Color Schemes
+
+### Java (Android Studio)
+
+|Language | IDE | Font | Color Scheme | Screenshot |
+|---------|-----|------|--------------|------------|
+|Java|Android Studio|Fira Code|**Darcula Large**| ![](Screenshots/JavaColors/DarculaLarge.png)|
+|Java|Android Studio|Fira Code|**Dark Visual Studio**| ![](Screenshots/JavaColors/DarkVisualStudio.png)|
+|Java|Android Studio|Fira Code|**Igor**| ![](Screenshots/JavaColors/Igor.png)|
+|Java|Android Studio|Fira Code|**Ladies Night**| ![](Screenshots/JavaColors/LadiesNight.png)|
+|Java|Android Studio|Fira Code|**Material Dark**| ![](Screenshots/JavaColors/MaterialDark.png)|
+|Java|Android Studio|Fira Code|**Relax Your Eyes**| ![](Screenshots/JavaColors/RelaxYourEyes.png)|
+|Java|Android Studio|Fira Code|**Solarized Light (Alt)**| ![](Screenshots/JavaColors/SolarizedLightAlt.png)|
+
+
+### Javascript (Webstorm)  
 
 **Darcula Large**  
-![](Screenshots/JavaColors/DarculaLarge.png)
+![](Screenshots/JSColors/DarculaLarge.png)
 
 **Dark Visual Studio**  
-![](Screenshots/JavaColors/DarkVisualStudio.png)
+![](Screenshots/JSColors/VisualStudioDark.png)
 
 **Igor**  
-![](Screenshots/JavaColors/Igor.png)
+![](Screenshots/JSColors/Igor.png)
 
 **Ladies Night**  
-![](Screenshots/JavaColors/LadiesNight.png)
+![](Screenshots/JSColors/LadiesNight.png)
 
 **Material Dark**  
-![](Screenshots/JavaColors/MaterialDark.png)
+![](Screenshots/JSColors/MaterialDark.png)
 
 **Relax Your Eyes**  
-![](Screenshots/JavaColors/RelaxYourEyes.png)
+![](Screenshots/JSColors/RelaxYourEyes.png)
 
 **Solarized Light Alt**  
-![](Screenshots/JavaColors/SolarizedLightAlt.png)
+![](Screenshots/JSColors/SolarizedLightAlt.png)
 
-### Fonts
+## Fonts
 
-#### Java (Android Studio)
+### Java (Android Studio)
 
 **Droid Sans Mono**  
 ![](Screenshots/JavaFonts/DroidSansMono.png)
@@ -82,37 +98,39 @@ These are some color schemes and fonts I prefer to use in my IDEs. All the color
 **Ubuntu Mono**  
 ![](Screenshots/JSFonts/UbuntuMono.png)
 
-## Installation
-### Installing Colors
+---
 
-#### Linux
+# Installation
+## Installing Colors
+
+### Linux
 Copy to -
 
 `~/.Webstorm2016.1/config/colors/`  
 `~/.AndroidStudio2.2/config/colors/`  
 
 
-#### Mac
+### Mac
 Copy to -
 
 `~/Library/Preferences/Webstorm2016.1/config/colors/`  
 `~/Library/Preferences/AndroidStudio2.2/config/colors/`  
 
-#### Windows
+### Windows
 Copy to -
 
 `C:/Users/<YOU>/Webstorm2016.1/config/colors/`  
 `C:/Users/<YOU>/AndroidStudio2.2/config/colors/`  
 
-### Installing Fonts
+## Installing Fonts
 
-#### Linux
+### Linux
 Copy to -
 
 `~/.local/share/fonts/`  (for you)  
 `/usr/local/share/fonts/`  (for everyone)   
 
-#### Windows
+### Windows
 Copy to -
 
 `C:/Windows/Fonts`  
