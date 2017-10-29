@@ -1,0 +1,17 @@
+<scheme name="xTheme DarcFira" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-10-29T20:50:11</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.0.0.18</property>
+    <property name="modified">2017-10-29T20:51:50</property>
+    <property name="originalScheme">Darcula copy</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+</scheme>

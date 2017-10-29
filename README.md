@@ -50,10 +50,10 @@ _**NOTE** : Some font files (otf or ttf, as available) are bundled in this repos
 
 | Color Scheme | Screenshot |
 |--------------|------------|
-|**Darcula Large**| ![](Screenshots/JavaColors/DarculaLarge.png)|
+|**xTheme DarcFira**| ![](Screenshots/JavaColors/xThemeDarcFira.png)|
 |**Dark Visual Studio**| ![](Screenshots/JavaColors/DarkVisualStudio.png)|
 |**Igor**| ![](Screenshots/JavaColors/Igor.png)|
-|**Ladies Night**| ![](Screenshots/JavaColors/LadiesNight.png)|
+|**Ladies Night 2**| ![](Screenshots/JavaColors/LadiesNight2.png)|
 |**Material Dark**| ![](Screenshots/JavaColors/MaterialDark.png)|
 |**Relax Your Eyes**| ![](Screenshots/JavaColors/RelaxYourEyes.png)|
 |**Solarized Light (Alt)**| ![](Screenshots/JavaColors/SolarizedLightAlt.png)|
@@ -61,6 +61,8 @@ _**NOTE** : Some font files (otf or ttf, as available) are bundled in this repos
 |**Obsidian**| ![](Screenshots/JavaColors/Obsidian.png)|
 |**Tomorrow Night**| ![](Screenshots/JavaColors/TomorrowNight.png)|
 |**Zenburn**| ![](Screenshots/JavaColors/Zenburn.png)|
+|**xTheme XcoFira**| ![](Screenshots/JavaColors/xThemeLightXcoFira.png)|
+|**Ergo**| ![](Screenshots/JavaColors/Ergo.png)|
 
 
 
@@ -168,3 +170,7 @@ You can specifically find monospaced fonts at https://www.fontsquirrel.com/fonts
 
 ### Programming Fonts
 Another tumblr blog I follow a lot to know about awesome programming fonts is http://programmingfonts.org/
+
+-----
+
+If you liked or used any theme from here, feel free to star this repo :) 
