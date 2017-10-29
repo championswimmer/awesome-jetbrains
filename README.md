@@ -12,6 +12,30 @@ These are some color schemes and fonts I prefer to use in my IDEs. All the color
 
 _**NOTE** : Some font files (otf or ttf, as available) are bundled in this repository. Not all fonts displayed below in screenshots are available in this repository. Only those fonts which are available under the OFL (Open Font License), that allows free redistribution, are present in the repository. You can easily download the non-OFL fonts for free for individual use (Google is your friend). There are no paid fonts showed in the screenshots._
 
+<!-- toc -->
+
+- [Screenshots](#screenshots)
+  * [Color Schemes](#color-schemes)
+    + [Java (Android Studio)](#java-android-studio)
+    + [Javascript (Webstorm)](#javascript-webstorm)
+  * [Fonts](#fonts)
+    + [Java (Android Studio)](#java-android-studio-1)
+    + [Javascript (Webstorm)](#javascript-webstorm-1)
+- [Installation](#installation)
+  * [Installing Colors](#installing-colors)
+    + [Linux](#linux)
+    + [Mac](#mac)
+    + [Windows](#windows)
+  * [Installing Fonts](#installing-fonts)
+    + [Linux](#linux-1)
+    + [Windows](#windows-1)
+- [Credits and References](#credits-and-references)
+    + [Color Themes](#color-themes)
+    + [Font Squirrel](#font-squirrel)
+    + [Programming Fonts](#programming-fonts)
+
+<!-- tocstop -->
+
 # Screenshots
 
 ## Color Schemes
@@ -22,7 +46,6 @@ _**NOTE** : Some font files (otf or ttf, as available) are bundled in this repos
 | **Language** | Java |
 | **IDE** | Android Studio |
 | **Font** | Fira Code|
-
 
 
 | Color Scheme | Screenshot |
@@ -78,7 +101,7 @@ _**NOTE** : Some font files (otf or ttf, as available) are bundled in this repos
 |**Consolas**  |![](Screenshots/JavaFonts/Consolas.png)|
 |**Ubuntu Mono**  |![](Screenshots/JavaFonts/UbuntuMono.png)|
 
-#### Javascript (Webstorm)
+### Javascript (Webstorm)
 
 |Environment||
 |---|---|
